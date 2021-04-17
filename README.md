@@ -20,5 +20,5 @@ After that you can restart your machine
     git clone https://github.com/fewtarius/351ELEC.git 351ELEC  
     cd 351ELEC  
     make clean
-    make world 
-    (or make RG351P only for RG351P)
+    make world
+ (or make RG351P only for RG351P)
