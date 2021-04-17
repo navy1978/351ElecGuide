@@ -21,4 +21,5 @@ After that you can restart your machine
     cd 351ELEC  
     make clean
     make world
+    
  (or make RG351P only for RG351P)
