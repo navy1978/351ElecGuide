@@ -25,4 +25,3 @@
    </ul>
    (or make RG351P only for RG351P)
 </ol>
-COPY TO CLIPBOARD SELEC
