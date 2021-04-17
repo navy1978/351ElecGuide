@@ -16,7 +16,7 @@
       <li>cd /mnt</li>
       <li>/autorun.sh</li>
    </ul>
-   <li>For copy paste follow this:https://www.liberiangeek.net/2013/09/copy-paste-virtualbox-host-guest-machines/<li>
+   <li>For copy paste follow this:https://www.liberiangeek.net/2013/09/copy-paste-virtualbox-host-guest-machines/</li>
    <li>Clone and build using the following commands (with a user that is not root)</li>
    <ul>
       <li>git clone https://github.com/fewtarius/351ELEC.git 351ELEC</li>
