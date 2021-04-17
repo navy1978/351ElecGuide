@@ -16,7 +16,7 @@
       <li>cd /mnt</li>
       <li>/autorun.sh</li>
    </ul>
-   <li> clone and build using the following commands (with a user that is not root</li>
+   <li> clone and build using the following commands (with a user that is not root)</li>
    <ul>
       <li>git clone https://github.com/fewtarius/351ELEC.git 351ELEC  </li>
       <li>cd 351ELEC  </li>
