@@ -1,4 +1,4 @@
-<h1>Guide to install a VM with Ubuntu 20.10 and compile 351Elec.</h1>
+<h1>351Elec develpment environmet (install a VM with Ubuntu 20.10 and compile 351Elec.)</h1>
 <ol>
    <li> Download Ubuntu 20.10 from here: https://ubuntu.com/download/desktop </li>
    <li> Download Oracle VM from here: https://www.virtualbox.org/ </li>
