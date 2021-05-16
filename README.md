@@ -14,7 +14,7 @@
       <li>sudo apt-get install virtualbox-guest-additions-iso</li>
       <li>sudo mount -o loop /usr/share/virtualbox/VBoxGuestAdditions.iso /mnt</li>
       <li>cd /mnt</li>
-      <li>/autorun.sh</li>
+      <li>./autorun.sh</li>
    </ul>
    For copy&paste follow this: https://www.liberiangeek.net/2013/09/copy-paste-virtualbox-host-guest-machines/
    <li>Clone and build using the following commands (with a user that is not root)</li>
