@@ -11,8 +11,8 @@
    After that you can restart your machine
    <li> In order to have duest addition and also enable copy&paste between VirtualBox Host and Guest Machines execute the following</li>
    <ul>
-      <li> sudo apt-get install virtualbox-guest-additions-isosudo</li>
-      <li>mount -o loop /usr/share/virtualbox/VBoxGuestAdditions.iso /mnt</li>
+      <li>sudo apt-get install virtualbox-guest-additions-iso</li>
+      <li>sudo mount -o loop /usr/share/virtualbox/VBoxGuestAdditions.iso /mnt</li>
       <li>cd /mnt</li>
       <li>/autorun.sh</li>
    </ul>
