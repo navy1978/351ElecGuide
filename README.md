@@ -20,7 +20,7 @@
    For copy&paste follow this: https://www.liberiangeek.net/2013/09/copy-paste-virtualbox-host-guest-machines/
    <li>Clone and build using the following commands (with a user that is not root)</li>
    <ul>
-      <li>git clone https://github.com/fewtarius/351ELEC.git 351ELEC</li>
+      <li>git clone https://github.com/navy1978/351ELEC 351ELEC</li>
       <li>cd 351ELEC</li>
       <li>make clean</li>
       <li>make world</li>
